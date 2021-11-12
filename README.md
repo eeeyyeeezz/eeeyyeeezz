@@ -1,6 +1,6 @@
-### Hi there, 👋 my name is Daniil!
-#### I'm beginner IOS developer
-- 🌱 I’m currently learning Swift
+### Всем привет, 👋 меня зовут Даниил!
+#### Я начинающий IOS разработчик
+- 🌱 В настоящий момент, я изучаю Swift
 <!--
 **eeeyyeeezz/eeeyyeeezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
